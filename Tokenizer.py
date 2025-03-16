@@ -1,3 +1,8 @@
+
+
+class 
+
+
 class BPE:
     def __init__(self,train_input, vocab_size=276):
         self.input = train_input
