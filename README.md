@@ -1,2 +1,2 @@
 # Transformer
-Implementation of a simple transformer
+Implementation of the transformer according to the orignal paper "Attention is all you need"
